@@ -1,0 +1,20 @@
+
+
+java:S1854
+"GRemove this useless assignment to local variable "oneDimensionalArray".(ÜÜª¼ÿÿÿÿÿ8‚±üë¦2J$710d8050-4d99-41f2-9e97-b8271d379a04
+€
+java:S1481
+"8Remove this unused "oneDimensionalArray" local variable.(ÜÜª¼ÿÿÿÿÿ8ƒ±üë¦2J$e1355123-dc77-4561-a90a-801f4e1cfbc4
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ŸÑ¼ÿùÿÿÿÿ8½‚Ùë¦2J$bea483ff-0c76-452c-a0be-fc53091999de
+r	java:S106"+Replace this use of System.out by a logger.(µŸŞ…şÿÿÿÿ8¾‚Ùë¦2J$5eb5626e-de23-462d-a38b-3ff08df783da
+m	java:S106"+Replace this use of System.out by a logger.(í­å¨8À‚Ùë¦2J$795b96eb-3bc5-4900-96f2-83eccf8de178
+r	java:S106 "+Replace this use of System.out by a logger.(Ø–ªùÿÿÿÿ8Á‚Ùë¦2J$51347b5a-197a-4ce9-b990-0e617491bbdc
+r	java:S106$"+Replace this use of System.out by a logger.(÷î‡±øÿÿÿÿ8÷öÙë¦2J$8adeeaf4-c658-48a4-be53-edd7361ffe14
+m	java:S106*"+Replace this use of System.out by a logger.(¾‡”¼8—ÛÚë¦2J$bfecc6a8-9e7c-484b-81f8-6f7372fdc3bf
+L	java:S106-"+Replace this use of System.out by a logger.(½ãıÿÿÿÿ8Üêÿë¦2
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8„Æïë¦2J$1b916033-dce4-4f2f-8921-092626569203
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8„Æïë¦2J$ce05bb8c-a5b7-41af-96f1-e6b2bcc91761
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8„Æïë¦2J$8b3666a1-c643-456e-b4e4-7a22c835829f
