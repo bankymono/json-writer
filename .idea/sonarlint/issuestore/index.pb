@@ -11,3 +11,7 @@ O
 src/main/java/data/Company.java,c\6\c69a06abee0e886e097babc2463ee61b83ca01b9
 Z
 *src/main/java/jsonwriter/InspectArray.java,7\4\7433e112bd7de7a4e83e1ab01384a8c18c68b844
+M
+src/main/java/data/Actor.java,e\f\efa2a86db05ac581ef3ea707fc855b7b16f63e5a
+M
+src/main/java/data/Movie.java,4\6\4687497121692b0b8d81d64c33b88de7baef7330
